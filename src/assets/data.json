@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.joan.com.mx/wp-content/uploads/2020/09/PORTA-NAVAJA-DE-METAL-MANGO-BARBER-SHOP-PB924.jpg",
+        "nombre": "Porta Navaja",
+        "precio": 17.99,
+        "cantidad": 100
+    },
+    {
+        "id": 2,
+        "img": "https://www.tupeluqueriaonline.com/images/productos/qmen-cera-mate-100-ml-1-15440.jpeg",
+        "nombre": "Cera Mate",
+        "precio": 10.99,
+        "cantidad": 100
+    },
+    {
+        "id": 3,
+        "img": "https://i0.wp.com/tecnoestilos.com/wp-content/uploads/2023/08/polvo-de-peinado-salerm.jpg?fit=600%2C600&ssl=1",
+        "nombre": "Polvos de volumen",
+        "precio": 8.95,
+        "cantidad": 100
+    },
+    {
+        "id": 4,
+        "img": "https://maquinasprofesionales.com/1783-home_default/captain-cook-black-bart-maquina-de-corte-con-cable.jpg",
+        "nombre": "Maquinilla V0987",
+        "precio": 190.95,
+        "cantidad": 100
+    },
+    {
+        "id": 5,
+        "img": "https://www.lapeluqueriaenlaweb.com/wp-content/uploads/2023/03/fe05ce85-8097-4fc8-a12d-d680b5995a42.jpg",
+        "nombre": "Secador Profesional",
+        "precio": 69.99,
+        "cantidad": 100
+    },
+    {
+        "id": 6,
+        "img": "https://www.darcos.es/pruebas/wp-content/uploads/2020/05/rollo_papel_cuello.gif",
+        "nombre": "Rollo Papel Cuello",
+        "precio": 3.99,
+        "cantidad": 100
+    },
+    {
+        "id": 7,
+        "img": "https://cdn2.primor.eu/media/catalog/product/cache/8d3aba296f7a18b5251ee30fa5db42b2/a/f/aftershave_27ad.webp",
+        "nombre": "After Shave Barber",
+        "precio": 12.99,
+        "cantidad": 100
+    },
+    {
+        "id": 8,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_855839-MLM69436287525_052023-O.webp",
+        "nombre": "Capa de Barbería",
+        "precio": 23.45,
+        "cantidad": 100
+    },
+    {
+        "id": 9,
+        "img": "https://www.cicericlippers.com/400-large_default/sillon-barbero-vigor-negro-.jpg",
+        "nombre": "Sillón de barbería",
+        "precio": 234.99,
+        "cantidad": 100
+    },
+    {
+        "id": 10,
+        "img": "https://www.odara.mx/cdn/shop/products/CEPILLOPHILLIPSCADET_1600x.jpg?v=1589904043",
+        "nombre": "Cepillo Degradados",
+        "precio": 3.99,
+        "cantidad": 100
+    },
+    {
+        "id": 11,
+        "img": "https://thebarberia.com/storage/UPkiVcHIfQvVhfRqe6zEjm2XkOTO5M2BlGIb4VCj.png",
+        "nombre": "Shampoo Pack",
+        "precio": 16.95,
+        "cantidad": 100
+    },
+    {
+        "id": 12,
+        "img": "https://m.media-amazon.com/images/I/517L7oM6dxL._AC_.jpg",
+        "nombre": "Cabezales Afeitadora",
+        "precio": 7.45,
+        "cantidad": 100
+    },
+    {
+        "id": 13,
+        "img": "https://m.media-amazon.com/images/I/71VZ+KcfGSL.jpg",
+        "nombre": "Espuma de afeitar",
+        "precio": 10,
+        "cantidad": 100
+    },
+    {
+        "id": 14,
+        "img": "https://ae01.alicdn.com/kf/S200c10e86b674c5f94164d25b15e4ec9M/Pegatina-para-el-pelo-de-barbero-para-hombre-y-mujer-pinza-para-el-pelo-cinta-de.jpg",
+        "nombre": "Pinzas Separadoras",
+        "precio": 5.99,
+        "cantidad": 100
+    },
+    {
+        "id": 15,
+        "img": "https://www.systemforme.com/3580-large_default/espejo-de-mano-mirrors.jpg",
+        "nombre": "Espejo",
+        "precio": 14.99,
+        "cantidad": 100
+    },
+    {
+        "id": 16,
+        "img": "https://m.media-amazon.com/images/I/811sIWIX93L._AC_UF1000,1000_QL80_.jpg",
+        "nombre": "Fibras capilares",
+        "precio": 32,
+        "cantidad": 100
+    },
+    {
+        "id": 17,
+        "img": "https://www.inphinita.com/web/image/product.template/18010/image_1024?unique=7341bc1",
+        "nombre": "Laca Fuerte",
+        "precio": 12.99,
+        "cantidad": 100
+    },
+    {
+        "id": 18,
+        "img": "https://m.media-amazon.com/images/I/71WM3ud2cWL._AC_UY1000_.jpg",
+        "nombre": "Camiseta Barbers18",
+        "precio": 25,
+        "cantidad": 100
+    }
+]

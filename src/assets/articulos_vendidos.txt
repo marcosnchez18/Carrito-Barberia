@@ -1,0 +1,9 @@
+ID     NOMBRE                                                                                    URL IMAGEN ARTICULO                                                      PRECIO 
+--    --------                                                                                 -----------------------                                                   --------
+
+18    Camiseta Barbers18                                           https://m.media-amazon.com/images/I/71WM3ud2cWL._AC_UY1000_.jpg                                        25.00€
+2     Cera Mate                                                    https://www.tupeluqueriaonline.com/images/productos/qmen-cera-mate-100-ml-1-15440.jpeg                 10.99€
+4     Maquinilla V0987                                             https://maquinasprofesionales.com/1783-home_default/captain-cook-black-bart-maquina-de-corte-con-cable.jpg  190.95€
+5     Secador Profesional                                          https://www.lapeluqueriaenlaweb.com/wp-content/uploads/2023/03/fe05ce85-8097-4fc8-a12d-d680b5995a42.jpg   69.99€
+1     Porta Navaja                                                 https://www.joan.com.mx/wp-content/uploads/2020/09/PORTA-NAVAJA-DE-METAL-MANGO-BARBER-SHOP-PB924.jpg   17.99€
+8     Capa de Barbería                                            https://http2.mlstatic.com/D_NQ_NP_855839-MLM69436287525_052023-O.webp                                 23.45€

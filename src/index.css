@@ -1,0 +1,295 @@
+.c_total {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 0;
+	gap: 20px;
+}
+
+.c_total h3 {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.c_b {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background: none;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+	color: #888;
+	transition: color 0.3s;
+}
+
+.c_b:hover {
+	color: red;
+}
+
+.desplazar {
+	margin-right: -12%;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	padding: 30px 0 40px 0;
+}
+
+.cant_b {
+	width: 22px;
+	margin-right: 9px;
+	margin-top: 19px;
+}
+
+
+img {
+	max-width: 100%;
+}
+
+.hidden {
+	display: none;
+}
+
+.i_carrito {
+	width: 40px;
+	height: 40px;
+	stroke: #000;
+	position: relative;
+}
+
+.i_carrito:hover {
+	cursor: pointer;
+}
+
+
+.c_icono {
+	position: relative;
+}
+
+.con_carrito {
+	position: absolute;
+	right: 0;
+	background-color: #fff;
+	width: 467px;
+	z-index: 1;
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.cess_articulo {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 30px;
+
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.i_cess_articulo {
+	display: flex;
+	justify-content: space-between;
+	flex: 0.8;
+}
+
+
+.p_total {
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.footer_container {
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+
+.footer_section {
+	text-align: center;
+}
+
+.h_carrito {
+	display: none;
+}
+
+
+.c_items {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	gap: 20px;
+}
+
+.item:hover {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+	background-color: rgba(59, 57, 57, 0.5);
+	color: #ffffff;
+	transition: box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+.item img {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+	transition: all 0.5s;
+}
+
+.i_articulo {
+	padding: 15px 30px;
+	line-height: 2;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	text-align: center;
+}
+
+.price {
+	font-size: 18px;
+	font-weight: 900;
+}
+
+.i_articulo button {
+	border: 2px solid #000000;
+	background-color: transparent;
+	color: #000;
+	padding: 12px 20px;
+	cursor: pointer;
+	border-radius: 30px;
+	font-family: 'Neuton', serif;
+	font-size: 16px;
+	transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.i_articulo button:hover {
+	background-color: #83733d;
+	color: #fff;
+}
+
+
+.cesta_vacia {
+	padding: 20px;
+	text-align: center;
+}
+
+.img_carrito {
+	height: 100px;
+	width: 100px;
+}
+
+
+.b_vaciar {
+	border: none;
+	background-color: #1f29b6;
+	color: #fff;
+	padding: 15px 0;
+	display: block;
+	width: 100%;
+	margin-top: 10px;
+	font-family: inherit;
+	cursor: pointer;
+	font-size: 16px;
+	transition: all .3s ease;
+}
+
+.b_vaciar:hover {
+	transform: scale(1.03);
+	border-radius: 0;
+}
+
+
+
+.b_vaciar2 {
+	border: none;
+	background-color: #cf1b1b;
+	color: #fff;
+	padding: 15px 0;
+	display: block;
+	width: 100%;
+	margin-top: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	font-family: inherit;
+	cursor: pointer;
+	font-size: 16px;
+	transition: all .3s ease;
+}
+
+.b_vaciar2:hover {
+	transform: scale(1.03);
+	border-radius: 0;
+}
+
+
+
+
+
+.enlace_lista {
+	list-style-type: none;
+	padding: 0;
+	font-family: 'Neuton', sans-serif;
+}
+
+.enlace_item {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.enlace_item a {
+	text-decoration: none;
+	color: inherit;
+	font-family: 'Neuton', sans-serif;
+	font-weight: bold;
+}
+
+.enlace_item a:hover {
+	color: rgb(121, 101, 37)
+}
+
+.nombre_carrito {
+	font-size: 20px;
+	margin-top: 8%;
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.precio_carrito {
+	font-weight: 700;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+.cant_carrito {
+	font-weight: 600;
+	font-size: 20px;
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+
+.icono_cerrar {
+	width: 25px;
+	height: 25px;
+}
+
+.icono_cerrar:hover {
+	stroke: red;
+	cursor: pointer;
+}
+
+.cant_ar {
+	position: absolute;
+	top: 43%;
+	right: 0;
+	margin-right: 83px;
+	color: #000000;
+	width: 25px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 600;
+}
+
+#cont_articulos {
+	font-size: 12px;
+}
