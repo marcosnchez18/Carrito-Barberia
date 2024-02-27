@@ -1,9 +1,11 @@
 ID     NOMBRE                                                                                    URL IMAGEN ARTICULO                                                      PRECIO 
 --    --------                                                                                 -----------------------                                                   --------
 
-18    Camiseta Barbers18                                           https://m.media-amazon.com/images/I/71WM3ud2cWL._AC_UY1000_.jpg                                        25.00€
-2     Cera Mate                                                    https://www.tupeluqueriaonline.com/images/productos/qmen-cera-mate-100-ml-1-15440.jpeg                 10.99€
-4     Maquinilla V0987                                             https://maquinasprofesionales.com/1783-home_default/captain-cook-black-bart-maquina-de-corte-con-cable.jpg  190.95€
 5     Secador Profesional                                          https://www.lapeluqueriaenlaweb.com/wp-content/uploads/2023/03/fe05ce85-8097-4fc8-a12d-d680b5995a42.jpg   69.99€
 1     Porta Navaja                                                 https://www.joan.com.mx/wp-content/uploads/2020/09/PORTA-NAVAJA-DE-METAL-MANGO-BARBER-SHOP-PB924.jpg   17.99€
+9     Sillón de barbería                                         https://www.cicericlippers.com/400-large_default/sillon-barbero-vigor-negro-.jpg                      234.99€
+14    Pinzas Separadoras                                           https://ae01.alicdn.com/kf/S200c10e86b674c5f94164d25b15e4ec9M/Pegatina-para-el-pelo-de-barbero-para-hombre-y-mujer-pinza-para-el-pelo-cinta-de.jpg    5.99€
+17    Laca Fuerte                                                  https://www.inphinita.com/web/image/product.template/18010/image_1024?unique=7341bc1                   12.99€
+13    Espuma de afeitar                                            https://m.media-amazon.com/images/I/71VZ+KcfGSL.jpg                                                    10.00€
 8     Capa de Barbería                                            https://http2.mlstatic.com/D_NQ_NP_855839-MLM69436287525_052023-O.webp                                 23.45€
+7     After Shave Barber                                           https://cdn2.primor.eu/media/catalog/product/cache/8d3aba296f7a18b5251ee30fa5db42b2/a/f/aftershave_27ad.webp   12.99€

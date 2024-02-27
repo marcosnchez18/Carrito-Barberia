@@ -1,5 +1,5 @@
 import React from 'react';
-import lista_articulo_data from '../assets/data.json';
+import lista_articulo_data from '../assets/articulos.json';
 import Button from './Button';
 
 export const Lista_articulos = ({
