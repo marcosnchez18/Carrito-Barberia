@@ -17,13 +17,11 @@ export const Header = ({
     set_cant_articulos(cant_articulos - articulo.cantidad);
     set_todos_articulos(results);
   };
-
   const limpiar_articulo_carrito = () => {
     set_todos_articulos([]);
     set_total(0);
     set_cant_articulos(0);
   };
-  
   const aumentar_cantidad = (articulo) => {
     const articulos = todos_articulos.map((item) =>
       item.id === articulo.id ? { ...item, cantidad: item.cantidad + 1 } : item
@@ -32,7 +30,6 @@ export const Header = ({
     set_total(total + articulo.precio);
     set_cant_articulos(cant_articulos + 1);
   };
-
   const disminuir_cantidad = (articulo) => {
     if (articulo.cantidad === 1) {
       borrar_articulo(articulo);

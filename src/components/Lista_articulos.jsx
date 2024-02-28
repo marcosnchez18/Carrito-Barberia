@@ -1,7 +1,6 @@
 import React from 'react';
 import lista_articulo_data from '../assets/articulos.json';
 import Button from './Button';
-
 export const Lista_articulos = ({
   todos_articulos,
   set_todos_articulos,
@@ -26,7 +25,6 @@ export const Lista_articulos = ({
       alert("Articulo añadido a la cesta !");
     }
   };
-
   const añadir_cesta = async (articulo) => {
     const { id, nombre, img, precio } = articulo;
     try {
@@ -43,7 +41,6 @@ export const Lista_articulos = ({
       console.error('Error', error);
     }
   };
-
   return (
     <div className="c_items">
       {lista_articulo_data.map((articulo) => ( 
