@@ -1,8 +1,3 @@
 ID     NOMBRE                                                                                    URL IMAGEN ARTICULO                                                      PRECIO 
 --    --------                                                                                 -----------------------                                                   --------
 
-14    Pinzas Separadoras                                           https://ae01.alicdn.com/kf/S200c10e86b674c5f94164d25b15e4ec9M/Pegatina-para-el-pelo-de-barbero-para-hombre-y-mujer-pinza-para-el-pelo-cinta-de.jpg    5.99€
-6     Rollo Papel Cuello                                           https://www.darcos.es/pruebas/wp-content/uploads/2020/05/rollo_papel_cuello.gif                         3.99€
-4     Maquinilla V0987                                             https://maquinasprofesionales.com/1783-home_default/captain-cook-black-bart-maquina-de-corte-con-cable.jpg  190.95€
-14    Pinzas Separadoras                                           https://m.media-amazon.com/images/I/71OnhXYAKiL._AC_UF1000,1000_QL80_.jpg                               5.99€
-6     Rollo Papel Cuello                                           https://www.darcos.es/pruebas/wp-content/uploads/2020/05/rollo_papel_cuello.gif                         3.99€
