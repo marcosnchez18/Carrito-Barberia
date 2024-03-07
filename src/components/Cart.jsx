@@ -1,14 +1,6 @@
 import React from 'react';
 const Cart = ({
-    todos_articulos,
-    total,
-    cant_articulos,
-    borrar_articulo,
-    limpiar_articulo_carrito,
-    cambiar_visibilidad,
-    aumentar_cantidad,
-    disminuir_cantidad,
-    visible,
+    todos_articulos, total, borrar_articulo, limpiar_articulo_carrito, cambiar_visibilidad, aumentar_cantidad, disminuir_cantidad, visible,
 }) => {
     return (
         <div className={`con_carrito ${visible ? '' : 'h_carrito'}`}>
@@ -64,6 +56,8 @@ const Cart = ({
                     <button className='b_vaciar2'>Ir al pago</button>
                 </>
             ) : (
+
+
                 <div className='cesta_vacia'>
                     <p>No tiene artículos en su cesta de la compra.</p>
                     <button className='c_b' onClick={() => cambiar_visibilidad(false)}>X</button>

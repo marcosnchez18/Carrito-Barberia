@@ -2,12 +2,7 @@ import React from 'react';
 import lista_articulo_data from '../assets/articulos.json';
 import Button from './Button';
 export const Lista_articulos = ({
-  todos_articulos,
-  set_todos_articulos,
-  cant_articulos,
-  set_cant_articulos,
-  total,
-  set_total,
+  todos_articulos, set_todos_articulos, cant_articulos, set_cant_articulos, total, set_total,
 }) => {
   const añadir_producto = (articulo) => {
     if (todos_articulos.find((item) => item.id === articulo.id)) {

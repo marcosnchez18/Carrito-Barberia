@@ -1,14 +1,8 @@
 import React, { useState } from 'react';
 import Logo2 from './Logo2';
 import Cart from './Cart';
-
 export const Header = ({
-  todos_articulos,
-  set_todos_articulos,
-  total,
-  cant_articulos,
-  set_cant_articulos,
-  set_total,
+  todos_articulos, set_todos_articulos, total,cant_articulos, set_cant_articulos, set_total,
 }) => {
   const [visible, cambiar_visibilidad] = useState(false);
   const borrar_articulo = (articulo) => {
@@ -84,15 +78,7 @@ export const Header = ({
           </div>
         </div>
         <Cart
-          todos_articulos={todos_articulos}
-          total={total}
-          cant_articulos={cant_articulos}
-          borrar_articulo={borrar_articulo}
-          limpiar_articulo_carrito={limpiar_articulo_carrito}
-          cambiar_visibilidad={cambiar_visibilidad}
-          aumentar_cantidad={aumentar_cantidad}
-          disminuir_cantidad={disminuir_cantidad}
-          visible={visible}
+          todos_articulos={todos_articulos}total={total}cant_articulos={cant_articulos}borrar_articulo={borrar_articulo}limpiar_articulo_carrito={limpiar_articulo_carrito}cambiar_visibilidad={cambiar_visibilidad}aumentar_cantidad={aumentar_cantidad}disminuir_cantidad={disminuir_cantidad}visible={visible}
         />
       </div>
     </header>

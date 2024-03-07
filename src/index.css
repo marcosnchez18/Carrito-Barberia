@@ -23,9 +23,6 @@
 	transition: color 0.3s;
 }
 
-.c_b:hover {
-	color: red;
-}
 
 .desplazar {
 	margin-right: -12%;
@@ -190,11 +187,6 @@ img {
 	transition: all .3s ease;
 }
 
-.b_vaciar:hover {
-	transform: scale(1.03);
-	border-radius: 0;
-}
-
 
 
 .b_vaciar2 {
@@ -212,12 +204,6 @@ img {
 	font-size: 16px;
 	transition: all .3s ease;
 }
-
-.b_vaciar2:hover {
-	transform: scale(1.03);
-	border-radius: 0;
-}
-
 
 
 
@@ -272,7 +258,6 @@ img {
 }
 
 .icono_cerrar:hover {
-	stroke: red;
 	cursor: pointer;
 }
 
